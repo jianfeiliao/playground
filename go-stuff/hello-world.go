@@ -5,5 +5,5 @@ import "fmt"
 const s string = "constant string"
 
 func main() {
-	fmt.Println("version is 1")
+	fmt.Println("version is 2")
 }
